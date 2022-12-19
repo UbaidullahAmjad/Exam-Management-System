@@ -1,0 +1,2 @@
+[01-May-2021 17:34:02 UTC] PHP Warning:  symlink(): No such file or directory in /home/wdnglbxe1zoj/public_html/projects/EMS/symlink.php on line 5
+[02-May-2021 06:43:43 UTC] PHP Warning:  symlink(): File exists in /home/wdnglbxe1zoj/public_html/projects/EMS/symlink.php on line 6
