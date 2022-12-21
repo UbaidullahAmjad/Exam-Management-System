@@ -1,62 +1,50 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Introduction:
+The client was the UAE Government regulatory authority that needs an online automated system for the validation of professional engineers through an online examination platform. This was a multi-role platform on which engineers need to pass the test for proving their professional eligibility. They needed a complete Smart Automated solution that can pass the engineer through a process of registration and validation, the system gave him the facility to select the slot and test he want to give and can monitor him through smart Invigilation tools integrated into the system so that Government Authority can approve certificate to that engineer to work in UAE. 
+Based on our remarkable journey client contacted ‘Cplus Soft Pvt. Limited for the development of this system that includes all the functionalities as per stakeholders' requirements.
+We developed a testing platform for professional engineers to validate their eligibility and include all the requirements as per stakeholders' demands.
+# Country:
+UAE
+# Industry:
+Education
+# Completion Time:
+5 Months
+# Team Size:
+5
+# Tech Stack:
+- Laravel
+- PHP
+- MySQL
+- Selenium
+- Jmeter
+- Postman
+- Adobe XD
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# Target Devices:
+- Web
+- Laptop
+- Desktop
+- Mobile
+# What We Delivered:
+We delivered a completely working online automated system that is able to meet all the client's requirements with quality and a better user experience. Following are the modules that we delivered to the client.
+## Admin Module App:
+This is the admin module that manages and controls all the relevant information and content related to exams. Following are the functionalities that the admin can perform.
+- Create exams for engineers
+- Set time and other parameters for exams
+- Manage and control dashboard stats
+- Make efficient user management and control
+- Set and manage payment details
+- Manage and share results with candidates
+- Make a report of all the relevant candidates
+- Email management for better coordination with user
+## User Module App:
+This is the user module app through which engineers can log in and perform their tests. All the relevant information related to exams is provided through this module app. Following are the features that the user can perform.
+- Perform login and registration process
+- View and manage dashboard stats for better coordination
+- Pay the fee for your desired test
+- Apply for the test as per your available time
+- View application status
+- Perform relevant test
+- Check your results
+- View your validation status
+- Retake the exams
+- Manage and control the user panel
